@@ -1,0 +1,111 @@
+body,h2,p {
+    padding: 0;
+    margin: 0;
+    background-color: #ffc488e6;
+}
+
+a{
+    text-decoration: none;
+}
+.container {
+    margin: 0 auto;
+    width: 1150px;
+}
+
+
+.Mikki-Maus-images Koko-images Vaiana-images{
+    border-radius: 12px;
+    width: 518px;
+    height: 500px;
+}
+
+.span{
+    border: 1px solid black;
+    border-radius: 100px;
+    width: 74px;
+    height: 74px;
+    font-size:38px;
+    font-weight:400;
+    color: black;
+    display: flex ;
+    justify-content: center;
+    align-items: center;
+}
+.title{
+    font-family: var(--font-family);
+font-weight: 400;
+font-size: 35px;
+line-height: 130%;
+letter-spacing: 0.03em;
+color: #101010
+}
+.Mikki-Maus-Text {
+    font-weight:400;
+    font-size:19px;
+    line-height:189px;
+    color: black;
+    text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+    .Mikki-Maus {
+        padding: 100px 0px;   
+    }
+.container-Mikki-Maus-container {
+        display: flex;
+        gap: 107px;}
+
+.Mikki-Maus-button{
+    border-radius: 100px;
+width: 74px;
+height: 74px;
+background: #b99fea;
+}
+.Koko-button{
+border-radius: 100px;
+width: 74px;
+height: 74px;
+background: #f99164;
+}
+
+.Koko-Text {
+    font-weight:400;
+    font-size:19px;
+    line-height:189px;
+    color: black;
+    text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+    .Koko {
+        padding: 100px 0px;   
+    }
+.container-Koko-container {
+        display: flex;
+        gap: 107px;}
+
+.Koko-button{
+    border-radius: 100px;
+width: 74px;
+height: 74px;
+background: #b99fea;
+}
+
+.Vaiana-button{
+    border-radius: 100px;
+width: 74px;
+height: 74px;
+background: #96dbc6;
+}
+
+.Vaiana-Text {
+        font-weight:400;
+        font-size:19px;
+        line-height:189px;
+        color: black;
+        text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+    }
+.Vaiana {
+    padding: 100px 0px;   
+    }
+.container-Vaiana-container {
+            display: flex;
+            gap: 107px;}
+    
+
