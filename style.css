@@ -13,6 +13,7 @@ a {
 .container {
     margin: 0 auto;
     width: 1150px;
+    gap: 20px;
 }
 
 
@@ -39,6 +40,8 @@ a {
     color: black;
     text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
     display: flex;
+    align-items: center;
+    margin: right 10px; ;
 
 }
 
@@ -46,10 +49,14 @@ a {
     padding: 100px 0px;
 }
 
-.container-Mikki-Maus-container {
+.container-Mikki-Maus-container  {
     display: flex;
     gap: 107px;
+    width: 400px;
+    height: 400px;
+
 }
+
 
 .Mikki-Maus-Text span {
     border-radius: 100px;
@@ -94,6 +101,8 @@ a {
 .container-Koko-container {
     display: flex;
     gap: 107px;
+    width: 400px;
+    height: 400px;
 }
 
 
@@ -117,8 +126,10 @@ a {
     color: black;
     text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
     display: flex;
-
+align-items: center;
 }
+
+
 
 .Vaiana {
     padding: 100px 0px;
@@ -127,4 +138,6 @@ a {
 .container-Vaiana-container {
     display: flex;
     gap: 107px;
+    width: 400px;
+    height: 400px;
 }
